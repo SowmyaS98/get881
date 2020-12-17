@@ -1,0 +1,12 @@
+devops is a culture which is followed in most of the organization in these days.
+
+SDLC: software development life cycle
+
+source code management:
+to manage different versions
+
+https://github.com/SowmyaS98/get881
+
+git init: used to initialize git repository
+
+git commit
