@@ -5,4 +5,8 @@ public class Sample {
 	{
 		System.out.println("hello world");
 	}
+	public void method()
+	{
+		System.out.println("hi all");
+	}
 }
